@@ -3,8 +3,9 @@
     "astro-aws-amplify": "^0.4.1",
     "dotenv": "^17.4.2"
   }
-
- { 
+}
+ 
+{ 
   "name": "AstroWeb",
   "type": "module",
   "scripts": {
@@ -14,5 +15,4 @@
 	  "preview": "astro preview",
 	  "astro": "astro"
   }
- }
 }
